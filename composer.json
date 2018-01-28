@@ -4,13 +4,13 @@
     "description": "require-dev dependencies from drupal/core",
     "license": "GPL-2.0-or-later",
     "require": {
-        "drupal/core": "8.2.6",
+        "drupal/core": "8.2.7",
         "behat/mink": "~1.7",
         "behat/mink-goutte-driver": "~1.2",
         "jcalderonzumba/gastonjs": "~1.0.2",
         "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
         "mikey179/vfsStream": "~1.2",
-        "phpunit/phpunit": "~4.8",
+        "phpunit/phpunit": ">=4.8.28 <5",
         "symfony/css-selector": "~2.8"
     }
 }
