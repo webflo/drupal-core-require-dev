@@ -4,7 +4,7 @@
     "description": "require-dev dependencies from drupal/core",
     "license": "GPL-2.0-or-later",
     "require": {
-        "drupal/core": "8.4.0-alpha1",
+        "drupal/core": "8.4.0-beta1",
         "behat/mink": "1.7.x-dev",
         "behat/mink-goutte-driver": "^1.2",
         "drupal/coder": "^8.2.12",
@@ -12,7 +12,8 @@
         "jcalderonzumba/mink-phantomjs-driver": "^0.3.1",
         "mikey179/vfsStream": "^1.2",
         "phpunit/phpunit": ">=4.8.35 <5",
-        "symfony/css-selector": "^3.2",
-        "symfony/phpunit-bridge": "^3.2"
+        "phpspec/prophecy": "^1.4",
+        "symfony/css-selector": "~3.2.8",
+        "symfony/phpunit-bridge": "~3.2.8"
     }
 }
