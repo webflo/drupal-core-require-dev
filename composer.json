@@ -4,6 +4,11 @@
     "description": "require-dev dependencies from drupal/core",
     "license": "GPL-2.0-or-later",
     "require": {
-        "drupal/core": "8.0.0-beta15"
+        "drupal/core": "8.0.0-beta16",
+        "behat/mink": "~1.6",
+        "behat/mink-goutte-driver": "dev-master#cc5ce119b5a8e06662f634b35967aff0b0c7dfdd",
+        "mikey179/vfsStream": "~1.2",
+        "phpunit/phpunit": "4.8.*",
+        "symfony/css-selector": "2.7.*"
     }
 }
