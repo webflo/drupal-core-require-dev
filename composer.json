@@ -1,0 +1,9 @@
+{
+    "name": "webflo/drupal-core-require-dev",
+    "type": "metapackage",
+    "description": "require-dev dependencies from drupal/core",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": "8.0.0-alpha14"
+    }
+}
