@@ -4,7 +4,7 @@
     "description": "require-dev dependencies from drupal/core",
     "license": "GPL-2.0-or-later",
     "require": {
-        "drupal/core": "8.3.4",
+        "drupal/core": "8.3.5",
         "behat/mink": "1.7.x-dev",
         "behat/mink-goutte-driver": "~1.2",
         "drupal/coder": "8.2.12",
