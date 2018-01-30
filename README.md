@@ -1,6 +1,6 @@
 # drupal-core-require-dev
 [![Packagist](https://img.shields.io/packagist/v/webflo/drupal-core-require-dev.svg)](https://packagist.org/packages/webflo/drupal-core-require-dev)
- [![Packagist](https://img.shields.io/packagist/dt/webflo/drupal-core-require-dev)](https://packagist.org/packages/webflo/drupal-core-require-dev)
+ [![Packagist](https://img.shields.io/packagist/dt/webflo/drupal-core-require-dev.svg)](https://packagist.org/packages/webflo/drupal-core-require-dev)
 
 ---
 
