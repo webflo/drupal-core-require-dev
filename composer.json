@@ -16,6 +16,7 @@
         "phpspec/prophecy": "^1.7",
         "symfony/css-selector": "^3.4.0",
         "symfony/phpunit-bridge": "^3.4.3",
-        "symfony/debug": "^3.4.0"
+        "symfony/debug": "^3.4.0",
+        "justinrainbow/json-schema": "^5.2"
     }
 }
