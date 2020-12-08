@@ -8,6 +8,10 @@
 
 ## Usage
 
+### Drupal Core 8.9
+
+``composer require --dev webflo/drupal-core-require-dev ~8.9.0``
+
 ### Drupal Core 8.8
 
 ``composer require --dev webflo/drupal-core-require-dev ~8.8.0``
