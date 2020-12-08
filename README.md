@@ -2,6 +2,9 @@
 
 This project is deprecated. Please use [drupal/core-dev](https://github.com/drupal/core-dev) instead.
 
+- GitHub: https://github.com/drupal/core-dev
+- Packagist: https://packagist.org/packages/drupal/core-dev
+
 ---
 
 
